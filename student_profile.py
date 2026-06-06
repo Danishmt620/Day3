@@ -1,0 +1,6 @@
+print("Student Profile")
+print()
+print("Name: Muhammed Danish M.T")
+print("Age:19")
+print("College:Amal College Nilambur")
+print("Branch:Bvoc Mobile App Development")
